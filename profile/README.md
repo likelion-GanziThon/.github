@@ -1,6 +1,8 @@
 # 🏠 HomeMate
+<img width="300" height="300" alt="homemate" src="https://github.com/user-attachments/assets/22b1f9b5-573d-4c8f-9037-3cbf553baa6a" />
 
-<img width="407" height="157" alt="image" src="https://github.com/user-attachments/assets/e7f0d399-2e49-4ce5-8406-b5859b75e651" />
+<img width="310" height="166" alt="image" src="https://github.com/user-attachments/assets/11fb575f-dcab-4e4b-83ad-dddb3118f99a" />
+
 
 2025 멋쟁이 사자처럼 Ganzithon : **HomeMate**  
 <br/><br/>
@@ -103,8 +105,8 @@
 
 | 기능 | 설명 | 화면 예시 |
 |------|------|-----------|
-| **메인 페이지** | 커뮤니티·룸메이트·정부지원 최신 게시글을 통합 미리보기로 제공하며, 메뉴바를 통해 프로필/글쓰기/카테고리 이동/로그인·로그아웃을 지원 | <img width="500" alt="main" src="https://github.com/likelion-GanziThon/BE/blob/feature/hl/main.png?raw=true" /> |
-| **커뮤니티 기능** | 시/구 지역 선택 후 해당 지역 게시글 조회, 게시글 작성·수정·삭제, 이미지 첨부(최대 4장), 좋아요·댓글, 검색 기능 제공 | <img width="500" alt="community" src="https://github.com/likelion-GanziThon/BE/blob/feature/hl/community.png?raw=true" /> |
-| **주거 정보 제공** | 공공데이터 API 기반 공공임대주택 단지 정보 제공 및 텍스트 조건 입력 → AI 기반 맞춤형 추천 기능 | <img width="500" alt="housing-info" src="https://github.com/likelion-GanziThon/BE/blob/feature/hl/%EC%A3%BC%EA%B1%B0%EC%A0%95%EB%B3%B4.png?raw=true" /> |
-| **룸메이트 찾기** | 시/구 지역 기반 조회, 게시글 작성·수정·삭제, 이미지 첨부, 좋아요·댓글, 오픈채팅 필수 입력, 검색 기능 제공 | <img width="500" alt="roommate" src="https://github.com/likelion-GanziThon/BE/blob/feature/hl/roommate.png?raw=true" /> |
-| **정부 주거지원 정보** | 정부 지원 정책 게시판 제공. 작성·수정·삭제, 이미지 첨부, 좋아요·댓글, 검색 기능 지원 | <img width="500" alt="gov-support" src="https://github.com/likelion-GanziThon/BE/blob/feature/hl/%EC%A0%95%EB%B6%80%EC%A3%BC%EA%B1%B0.png?raw=true" /> |
+| **메인 페이지** | 커뮤니티·룸메이트·정부지원 최신 게시글을 통합 미리보기로 제공하며, 메뉴바를 통해 프로필/글쓰기/카테고리 이동/로그인·로그아웃을 지원 | ![1](https://github.com/user-attachments/assets/8c22cb3c-f2e4-4878-bb45-75b4d0642fc3) |
+| **커뮤니티 기능** | 시/구 지역 선택 후 해당 지역 게시글 조회, 게시글 작성·수정·삭제, 이미지 첨부(최대 4장), 좋아요·댓글, 검색 기능 제공 |![3](https://github.com/user-attachments/assets/0ac7070c-3327-4c8f-9212-270ac6b4b77d)|
+| **주거 정보 제공** | 공공데이터 API 기반 공공임대주택 단지 정보 제공 및 텍스트 조건 입력 → AI 기반 맞춤형 추천 기능 |![4](https://github.com/user-attachments/assets/a66c1350-4ed5-4918-8239-5822492c0b5d)|
+| **룸메이트 찾기** | 시/구 지역 기반 조회, 게시글 작성·수정·삭제, 이미지 첨부, 좋아요·댓글, 오픈채팅 필수 입력, 검색 기능 제공 | ![5](https://github.com/user-attachments/assets/ae942551-f448-48c3-ae7d-7aedf351655c)|
+| **정부 주거지원 정보** | 정부 지원 정책 게시판 제공. 작성·수정·삭제, 이미지 첨부, 좋아요·댓글, 검색 기능 지원 | ![6](https://github.com/user-attachments/assets/1f3c3ba2-a16c-4674-b90d-9cab33c3a9cd)|
